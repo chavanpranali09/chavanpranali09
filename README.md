@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Pranali Chavan
-- 🌱 I’m currently learning Data Analytics and Data Science
