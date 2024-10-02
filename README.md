@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavanpranali09&label=Profile%20views&color=0e75b6&style=flat" alt="chavanpranali09" /> </p>
 
-- 🌱 I’m currently learning **Master in Data Science & Analytics with AI.**
+- 🎯 **Data Analyst| Power BI| Excel | Tableau | SQL | Python**
+- 💡 Passionate about transforming raw data into actionable insights and driving data-driven decisions.
 
 - 📫 How to reach me **chavanpranali09@gmail.com**
 
